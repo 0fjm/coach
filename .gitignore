@@ -1,0 +1,9 @@
+data/
+.secrets/
+.venv/
+*.token
+__pycache__/
+.DS_Store
+plans/profile.md
+.mcp.json
+.trainer-home

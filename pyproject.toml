@@ -1,0 +1,26 @@
+[build-system]
+requires = ["uv-build"]
+build-backend = "uv_build"
+
+[project]
+name = "trainer"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "garminconnect>=0.3.20,<0.4",
+    "keyring>=25.7.0",
+    "mcp>=2.3,<3",
+]
+
+[project.scripts]
+trainer = "trainer.cli:main"
+trainer-mcp = "trainer.server:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["tests"]

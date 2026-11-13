@@ -1,0 +1,29 @@
+{
+  "mostRecentTrainingStatus": {
+    "latestTrainingStatusData": [
+      {
+        "primaryTrainingDevice": true,
+        "trainingStatusFeedbackPhrase": "TRAINING_STATUS_MAINTAINING",
+        "acuteTrainingLoadDTO": {
+          "dailyTrainingLoadAcute": 55.0,
+          "dailyTrainingLoadChronic": 50.0,
+          "dailyAcuteChronicWorkloadRatio": 1.1
+        }
+      }
+    ]
+  },
+  "mostRecentTrainingLoadBalance": {
+    "metricsTrainingLoadBalanceDTOMap": {
+      "1234567": {
+        "primaryTrainingDevice": true,
+        "monthlyLoadAerobicLow": 100.0,
+        "monthlyLoadAerobicHigh": 50.0,
+        "monthlyLoadAnaerobic": 10.0
+      }
+    }
+  },
+  "mostRecentVO2Max": {
+    "generic": {"vo2MaxPreciseValue": 52.0},
+    "cycling": {"vo2MaxPreciseValue": 54.0}
+  }
+}

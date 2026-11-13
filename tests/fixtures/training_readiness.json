@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-11-10T05:00:00",
+    "score": 72,
+    "level": "MORNING_GOOD"
+  },
+  {
+    "timestamp": "2026-11-10T22:00:00",
+    "score": 85,
+    "level": "EVENING_GOOD"
+  }
+]

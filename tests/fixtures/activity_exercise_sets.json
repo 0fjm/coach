@@ -1,0 +1,17 @@
+{
+  "exerciseSets": [
+    {
+      "setType": "STRENGTH_TRAINING",
+      "exercises": [
+        {
+          "category": "PRESS",
+          "name": "BENCH_PRESS"
+        }
+      ],
+      "repetitionCount": 10,
+      "weight": 20000,
+      "duration": 60.0,
+      "startTime": "2026-11-10 07:05:00"
+    }
+  ]
+}

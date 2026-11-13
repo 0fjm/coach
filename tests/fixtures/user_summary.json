@@ -1,0 +1,9 @@
+{
+  "restingHeartRate": 46,
+  "averageStressLevel": 32,
+  "bodyBatteryHighestValue": 85,
+  "bodyBatteryLowestValue": 20,
+  "totalSteps": 8500,
+  "moderateIntensityMinutes": 15,
+  "vigorousIntensityMinutes": 30
+}

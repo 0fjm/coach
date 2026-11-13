@@ -1,0 +1,1 @@
+{"mcpServers": {"trainer": {"command": "uv", "args": ["run", "--directory", "/path/to/coach", "--frozen", "trainer-mcp"], "env": {"TRAINER_HOME": "/path/to/trainer-data"}}}}

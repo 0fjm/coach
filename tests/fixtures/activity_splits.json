@@ -1,0 +1,12 @@
+{
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-11-09 06:00:00",
+      "duration": 3600.0,
+      "distance": 30000.0,
+      "averageHR": 145.0,
+      "averagePower": 180.0,
+      "normalizedPower": 185.0
+    }
+  ]
+}
